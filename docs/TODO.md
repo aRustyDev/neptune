@@ -33,3 +33,38 @@
   - [ ] Support `Golang`
   - [ ] Support `Zig`
   - [ ] Support `Roc`
+
+
+## Github Org Name
+
+- neptune
+- neptune.td
+- neptune.cd
+- atlantis
+- atlantian-tools
+- neptunalia
+
+## Domain Registration
+
+### Candidates
+
+- `atlant.us`
+- `atlanti.in`
+- `atlantis.dev`
+- `atlantis.tech`
+- `atlantis.live`
+- `atlantis.codes`
+- `atlantian.tech`
+- `atlantian.tools`
+- `neptu.ne`
+- `neptune.is`
+- `neptune.io`
+- `neptune.rs`
+- `neptune.ci`
+- `neptune.cd`
+- `neptune.md`
+- `neptune.td`
+- `neptune.art`
+- `neptune.dev`
+- `neptune.live`
+- `neptune.codes`
